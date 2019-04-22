@@ -1,0 +1,5 @@
+{
+    "spotify": {"clientid": "acb832b9925c4095bbf8c8e267089696", 
+               "clientsecret": "295f3acfff104bb2924787afc1b20a88", 
+               "redirect_uri": "https://allen-crotty-cs181-final-project.com/callback"}
+}
